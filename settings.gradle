@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidNativeAppDemo"
 include ':app'
+include ':EndeavorAndroidERNContainer'
+project(':EndeavorAndroidERNContainer').projectDir = new File('endeavor-android-native-app-container/lib')

@@ -1,0 +1,3 @@
+[submodule "EndeavorAndroidERNContainer"]
+	path = endeavor-android-native-app-container
+	url = git@github.com:amandalragone/endeavor-android-native-app-container.git
